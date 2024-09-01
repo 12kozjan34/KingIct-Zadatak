@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightsSearch", "FlightsSearch\FlightsSearch.csproj", "{0EF9AD08-EEB3-4CAD-89FC-D90A84F2C381}"
+	ProjectSection(ProjectDependencies) = postProject
+		{84968F99-06CA-4C3F-A843-E56E141140EF} = {84968F99-06CA-4C3F-A843-E56E141140EF}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightsSearch.DAO", "FlightsSearch.DAO\FlightsSearch.DAO.csproj", "{84968F99-06CA-4C3F-A843-E56E141140EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EF9AD08-EEB3-4CAD-89FC-D90A84F2C381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF9AD08-EEB3-4CAD-89FC-D90A84F2C381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF9AD08-EEB3-4CAD-89FC-D90A84F2C381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF9AD08-EEB3-4CAD-89FC-D90A84F2C381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84968F99-06CA-4C3F-A843-E56E141140EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84968F99-06CA-4C3F-A843-E56E141140EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84968F99-06CA-4C3F-A843-E56E141140EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84968F99-06CA-4C3F-A843-E56E141140EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5623E0D1-56B7-447F-BB0C-BAD02D7BC22E}
+	EndGlobalSection
+EndGlobal

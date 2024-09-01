@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "7dS1p9cVzodEprYAMliE6KvOkoWba11Tj0myWGFlRwyHb43ODcGXioqLGY2VbkkrQRFNp5esIfUe0z1dmNKPyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kozja\\Desktop\\KingICT-Zadatak\\FlightsSearch\\FlightsSearch.DAO\\FlightsSearch.DAO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kozja\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\kozja\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\kozja\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\kozja\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\kozja\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

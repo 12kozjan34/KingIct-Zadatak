@@ -1,0 +1,12 @@
+C:\Users\kozja\Desktop\KingICT-Zadatak\FlightsSearch\FlightsSearch.DAO\bin\Debug\net6.0\FlightsSearch.DAO.deps.json
+C:\Users\kozja\Desktop\KingICT-Zadatak\FlightsSearch\FlightsSearch.DAO\bin\Debug\net6.0\FlightsSearch.DAO.dll
+C:\Users\kozja\Desktop\KingICT-Zadatak\FlightsSearch\FlightsSearch.DAO\bin\Debug\net6.0\FlightsSearch.DAO.pdb
+C:\Users\kozja\Desktop\KingICT-Zadatak\FlightsSearch\FlightsSearch.DAO\obj\Debug\net6.0\FlightsSearch.DAO.csproj.AssemblyReference.cache
+C:\Users\kozja\Desktop\KingICT-Zadatak\FlightsSearch\FlightsSearch.DAO\obj\Debug\net6.0\FlightsSearch.DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kozja\Desktop\KingICT-Zadatak\FlightsSearch\FlightsSearch.DAO\obj\Debug\net6.0\FlightsSearch.DAO.AssemblyInfoInputs.cache
+C:\Users\kozja\Desktop\KingICT-Zadatak\FlightsSearch\FlightsSearch.DAO\obj\Debug\net6.0\FlightsSearch.DAO.AssemblyInfo.cs
+C:\Users\kozja\Desktop\KingICT-Zadatak\FlightsSearch\FlightsSearch.DAO\obj\Debug\net6.0\FlightsSearch.DAO.csproj.CoreCompileInputs.cache
+C:\Users\kozja\Desktop\KingICT-Zadatak\FlightsSearch\FlightsSearch.DAO\obj\Debug\net6.0\FlightsSearch.DAO.dll
+C:\Users\kozja\Desktop\KingICT-Zadatak\FlightsSearch\FlightsSearch.DAO\obj\Debug\net6.0\refint\FlightsSearch.DAO.dll
+C:\Users\kozja\Desktop\KingICT-Zadatak\FlightsSearch\FlightsSearch.DAO\obj\Debug\net6.0\FlightsSearch.DAO.pdb
+C:\Users\kozja\Desktop\KingICT-Zadatak\FlightsSearch\FlightsSearch.DAO\obj\Debug\net6.0\ref\FlightsSearch.DAO.dll
